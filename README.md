@@ -1,7 +1,7 @@
 # Hospital Management System
 
-# Frontend
-# Dashhboard
+![image](https://github.com/user-attachments/assets/ce5319a2-0de9-4eb6-91a5-cb60df41a1ec)
+![image](https://github.com/user-attachments/assets/9d761bcd-41c1-4c48-9cdf-65b7d05560e8)
 
 ## 📜 Table of Contents
 
